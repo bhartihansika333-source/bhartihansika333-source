@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Hansika 👋
 
-<!--
-**bhartihansika333-source/bhartihansika333-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Currently learning C++ & DSA
+🤖 Interested in AI/ML and Software Development
+🔐 Exploring Cybersecurity
 
-Here are some ideas to get you started:
+ 🛠️ Skills
+C | C++ | Python | SQL | HTML | CSS
+Git | GitHub | VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 Currently Working On
+- Data Structures & Algorithms
+- C++ OOP
+- Machine Learning projects
+
+ 📌 Featured Projects
+- Fake Social Media Profile Detector
+
+
+ 
